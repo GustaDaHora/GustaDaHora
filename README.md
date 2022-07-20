@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gustavo da Hora
 - 👀 I’m interested in coding and desktop apps development
 - 🌱 I’m currently learning everything about Electron
-- 💞️ I’m looking to collaborate on desktop apps creation
+- 💞️ I’m looking to collaborate on desktop apps development
 - 📫 How to reach me gustadahora68@gmail.com 
 
 <!---
