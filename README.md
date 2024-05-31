@@ -1,8 +1,8 @@
-## Welcome to my profile
-I know:
--- Web Development (Javascript, Typescript, React, NextJs, API RESTful, SQL Databases, ORMs like Prisma and Knex).
--- Game Development (Lua for Roblox Scripting and LÖVE2D)
-Currently Learning (c++, python, linux, Blender, Unreal Engine 5)
+## Welcome to my profile <br>
+I know: <br>
+-- Web Development (Javascript, Typescript, React, NextJs, API RESTful, SQL Databases, ORMs like Prisma and Knex). <br>
+-- Game Development (Lua for Roblox Scripting and LÖVE2D) <br>
+Currently Learning (c++, python, linux, Blender, Unreal Engine 5) <br>
 
 I speak native Portuguese and fluent English.
 
