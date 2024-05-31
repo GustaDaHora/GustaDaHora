@@ -1,4 +1,10 @@
-## Welcome to my profile 😁
+## Welcome to my profile
+I know:
+-- Web Development (Javascript, Typescript, React, NextJs, API RESTful, SQL Databases, ORMs like Prisma and Knex).
+-- Game Development (Lua for Roblox Scripting and LÖVE2D)
+Currently Learning (c++, python, linux, Blender, Unreal Engine 5)
+
+I speak native Portuguese and fluent English.
 
  <div>
    <a href="https://github.com/GustaDaHora">
