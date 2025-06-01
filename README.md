@@ -1,33 +1,45 @@
-## Welcome to my profile <br>
-I know: <br>
--- Web Development (Javascript, Typescript, React, NextJs, API RESTful, SQL Databases, ORMs like Prisma and Knex). <br>
--- Game Development (Lua for Roblox Scripting and LÖVE2D) <br>
-Currently Learning (C#, python, linux, Blender, Unreal Engine 5) <br>
+# 👋 Welcome!
 
-I speak native Portuguese and fluent English.
+Hi! I'm **Gustavo Da Hora**, a passionate full-stack web developer and indie game developer.
 
- <div>
-   <a href="https://github.com/GustaDaHora">
-   <img width="380em" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustaDaHora&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img width="380em" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustaDaHora&layout=compact&langs_count=6&theme=merko"/>
+---
+
+## 🧠 About Me
+
+- 💻 **Web Development**: JavaScript, TypeScript, React, Next.js, RESTful APIs, SQL Databases, ORMs (Prisma, Knex)
+- 🎮 **Game Development**: Lua (Roblox, LÖVE2D)
+- 🚀 **Currently Learning**: C#, Python, Linux, Blender, Unreal Engine 5
+- 🌍 **Languages**: Native Portuguese 🇧🇷 | Fluent English 🇺🇸
+
+---
+
+## 🛠️ Tech Stack
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="Electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="Lua" />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" alt="lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />   
-  <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />   
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustaDaHora&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustaDaHora&layout=compact&langs_count=6&theme=merko"/>
 </div>
- <br>
- 
-  ### How to reach me:
- 
-<div> 
-  <a href = "mailto:gustadahora68@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gustavo-dahora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
+
+---
+
+## 📬 How to Reach Me
+
+<div>
+  <a href="mailto:gustadahora68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-dahora/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
