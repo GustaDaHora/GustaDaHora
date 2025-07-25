@@ -2,13 +2,15 @@
 
 Hi! I'm **Gustavo Da Hora**, a passionate full-stack web developer and indie game developer.
 
+## <a href="https://gustavo-dahora.vercel.app/"> PORTIFOLIO <a/>
+
 ---
 
 ## 🧠 About Me
 
 - 💻 **Web Development**: JavaScript, TypeScript, React, Next.js, RESTful APIs, SQL Databases, ORMs (Prisma, Knex)
 - 🎮 **Game Development**: Lua (Roblox, LÖVE2D)
-- 🚀 **Currently Learning**: C#, Python, Linux, Blender, Unreal Engine 5
+- 🚀 **Currently Learning**: C++, Python, Blender, Unreal Engine 5
 - 🌍 **Languages**: Native Portuguese 🇧🇷 | Fluent English 🇺🇸
 
 ---
