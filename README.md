@@ -8,7 +8,7 @@ Hi! I'm **Gustavo Da Hora**, a passionate full-stack web developer and indie gam
 
 ## 🧠 About Me
 
-- 💻 **Web Development**: JavaScript, TypeScript, React, Next.js, RESTful APIs, SQL Databases, ORMs (Prisma, Knex)
+- 💻 **Web Development**: JavaScript, TypeScript, React, Next.js, RESTful APIs, SQL/NoSQL, Caching with Redis, ORMs (Prisma, Knex)
 - 🎮 **Game Development**: Lua (Roblox, LÖVE2D)
 - 🚀 **Currently Learning**: C++, Python, Blender, Unreal Engine 5
 - 🌍 **Languages**: Native Portuguese 🇧🇷 | Fluent English 🇺🇸
