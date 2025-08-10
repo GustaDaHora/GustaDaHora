@@ -2,7 +2,7 @@
 
 Hi! I'm **Gustavo Da Hora**, a passionate full-stack web developer and indie game developer.
 
-## <a href="https://gustavo-dahora.vercel.app/"> PORTIFOLIO <a/>
+## <a target=”_blank” href="https://gustavo-dahora.vercel.app/"> Portifolio <a/>
 
 ---
 
@@ -42,6 +42,6 @@ Hi! I'm **Gustavo Da Hora**, a passionate full-stack web developer and indie gam
 ## 📬 How to Reach Me
 
 <div>
-  <a href="mailto:gustadahora68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gustavo-dahora/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target=”_blank” href="mailto:gustadahora68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target=”_blank” href="https://www.linkedin.com/in/gustavo-dahora/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
