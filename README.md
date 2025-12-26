@@ -33,8 +33,8 @@ Hi! I'm **Gustavo Da Hora**, a passionate full-stack web developer and indie gam
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustaDaHora&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustaDaHora&layout=compact&langs_count=6&theme=merko"/>
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustaDaHora&show_icons=true&theme=merko&include_all_commits=true&count_private=true&exclude_repo=Another-NS2.34-Fix,NS2.35-Working-on-Opensuse-Tumbleweed" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustaDaHora&layout=compact&langs_count=6&theme=merko&exclude_repo=Another-NS2.34-Fix,NS2.35-Working-on-Opensuse-Tumbleweed"/>
 </div>
 
 ---
